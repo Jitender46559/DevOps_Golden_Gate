@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is the change which we have done for merge conflict using branch1.
+=======
+Solving the merge conflict by adding changes using branch2.
+>>>>>>> branch2
